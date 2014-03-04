@@ -1,0 +1,234 @@
+[
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPhone",
+		"model"		:	"3g",
+		"desc"		:	"Broken digitizer and glass",
+		"price"		:	"59.00",
+		"duration"	:	"0.5"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPhone",
+		"model"		:	"3g",
+		"desc"		:	"Broken digitizer and glass",
+		"price"		:	"59.00",
+		"duration"	:	"0.5"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPhone",
+		"model"		:	"3g",
+		"desc"		:	"Broken LCD and digitizer",
+		"price"		:	"89.00",
+		"duration"	:	"0.5"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPhone",
+		"model"		:	"4",
+		"desc"		:	"Broken LCD and digitizer",
+		"price"		:	"89.00",
+		"duration"	:	"0.75"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPhone",
+		"model"		:	"4",
+		"desc"		:   "Backing",
+		"price"		:	"39.00",
+		"duration"	:	"0.25"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPhone",
+		"model"		:	"4S",
+		"desc"		:   "Broken LCD and digitizer",
+		"price"		:	"89.00", 
+		"duration"	:	"0.75"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPhone",
+		"model"		:	"4S",
+		"desc"		:   "Backing",
+		"price"		:	"39.00",
+		"duration"	:	"0.25"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPhone",
+		"model"		:	"5",
+		"desc"		:   "Broken LCD and digitizer",
+		"price"		:	"159.00",
+		"duration"	:	"0.5"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPod",
+		"model"		:	"3rd generation",	
+		"desc"		:	"Broken LCD and digitizer",
+	 	"price"		:	"89.00",
+		"duration"	:	"1"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPod",
+		"model"		:	"4th generation",	
+		"desc"		:	"Broken LCD and digitizer",
+		"price"		:	"89.00",  
+		"duration"	:	"1"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPod",
+		"model"		:	"5th gen",	
+		"desc"		:	"Broken LCD and digitizer",
+		"price"		:	"189.00",
+		"duration"	:	"1"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPhone",
+		"model"		:	"4",
+		"desc"		:   "LCD and digitizer, colour conversion",
+		"price"		:	"109.00", 
+		"duration"	:	"1"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPhone",
+		"model"		:	"4S",
+		"desc"		:   "LCD and digitizer, Colour Conversion",
+		"price"		:	"109.00", 
+		"duration"	:	"1"
+	},
+	{
+		"brand"		:	"Samsung",
+		"serie"		:	"Galaxy",
+		"model"		:	"S2 3G",
+		"desc"		:	"Broken LCD and digitizer",
+	 	"price"		:	"189.00",
+	 	"duration"	:	"1"
+	},
+	{
+		"brand"		:	"Samsung",
+		"serie"		:	"Galaxy",
+		"model"		:	"S2 4G",
+		"desc"		:	"Broken LCD and digitizer",
+		"price"		:	"289.00", 
+	 	"duration"	:	"1"
+	},
+	{
+		"brand"		:	"Samsung",
+		"serie"		:	"Galaxy",
+		"model"		:	"S3 3G",
+		"desc"		:	"Broken LCD and digitizer",
+	 	"price"		:	"239.00",
+	 	"duration"	:	"1"
+	},
+	{
+		"brand"		:	"Samsung",
+		"serie"		:	"Galaxy",
+		"model"		:	"S3 4G",
+		"desc"		:	"Broken LCD and digitizer",
+		"price"		:	"269.00", 
+	 	"duration"	:	"1"
+	},
+	{
+		"brand"		:	"Samsung",
+		"serie"		:	"Galaxy",
+		"model"		:	"S4 3G",
+		"desc"		:	"Broken LCD and digitizer",
+		"price"		:	"319.00", 
+	 	"duration"	:	"1"
+	},
+	{	
+		"brand"		:	"Samsung",
+		"serie"		:	"Galaxy",
+		"model"		:	"S4 4G",
+		"desc"		:	"Broken LCD and digitizer",
+		"price"		:	"339.00",
+		"duration"	:	"1"
+	},
+	{
+		"brand"		:	"HTC",
+		"serie"		:	"One",
+		"model"		:	"",
+		"desc"		:	"Broken LCD and digitizer",
+		"price"		:	"249.00",
+		"duration"	:	"1"
+	},
+	{
+		"brand"		:	"HTC",
+		"serie"		:	"One", 
+		"model"		:	"X/L", 
+		"desc"		:	"Broken LCD and digitizer",
+		"price"		:	"169.00",
+		"duration"	:	"1"
+	},
+	{
+		"brand"		:	"HTC",
+		"serie"		:	"Windows Phone",
+		"model"		:	"8S",	
+		"desc"		:	"Broken LCD and digitizer",
+		"price"		:	"169.00", 
+		"duration"	:	"1"
+	},
+	{
+		"brand"		:	"HTC",
+		"serie"		:	"Windows Phone", 
+		"model"		:	"8X",	
+		"desc"		:	"Broken LCD and digitizer",
+		"price"		:	"169.00",
+		"duration"	:	"1"
+	},
+	{
+		"brand"		:	"Nokia",
+		"serie"		:	"Lumia", 
+		"model"		:	"1020",	
+		"desc"		:	"Broken LCD and digitizer",
+		"price"		:	"359.00",
+		"duration"	:	"1"
+	},
+	{
+		"brand"		:	"Nokia",
+		"serie"		:	"Lumia", 
+		"model"		:	"925", 
+		"desc"		:	"Broken LCD and digitizer",
+		"price"		:	"339.00",
+		"duration"	:	"1"
+	},
+	{
+		"brand"		:	"Nokia",
+		"serie"		:	"Lumia", 
+		"model"		:	"920", 
+		"desc"		:	"Broken LCD and digitizer",
+		"price"		:	"259.00", 
+		"duration"	:	"1"
+	},
+	{
+		"brand"		:	"Nokia",
+		"serie"		:	"Lumia", 
+		"model"		:	"900", 
+		"desc"		:	"Broken LCD and digitizer",
+		"price"		:	"229.00",
+		"duration"	:	"1"
+	},
+	{
+		"brand"		:	"Sony Ericsson", 
+		"serie"		:	"Z",
+		"model"		:	"", 
+		"desc"		:	"LCD and digitizer",
+		"price"		:	"259.00",
+		"duration"	:	"1"
+	},
+	{
+		"brand"		:	"Blackberry",
+		"serie"		:	"Z", 
+		"model"		:	"10",
+		"desc"		:	"Broken LCD and digitizer",
+		"price"		:	"279.00",
+		"duration"	:	"1.5"
+	}
+]

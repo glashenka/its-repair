@@ -1,0 +1,387 @@
+[
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"1",
+		"desc"		:	"Digitizer",	
+		"price"		:	"129.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"1",
+		"desc"		:	"LCD",
+		"price"		:	"149.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"1",
+		"desc"		:	"LCD+Digitizer",
+		"price"		:	"229.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"1",
+		"desc"		:	"Battery",	
+		"price"		:	"99.00",	
+		"duration"	:	"2"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"1",
+		"desc"		:	"Charging Port",	
+		"price"		:	"139.00",	
+		"duration"	:	"2"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"2",
+		"desc"		:	"Digitizer",	
+		"price"		:	"129.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"2",
+		"desc"		:	"LCD",	
+		"price"		:	"149.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"2",
+		"desc"		:	"LCD+Digitizer",	
+		"price"		:	"219.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"2",
+		"desc"		:	"Back Cover",
+		"price"		:	"159.00",	
+		"duration"	:	"4"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"2",
+		"desc"		:	"Battery",	
+		"price"		:	"109.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"2",
+		"desc"		:	"Charging Port",
+		"price"		:	"99.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"2",
+		"desc"		:	"Sim card reader",
+		"price"		:	"99.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"2",
+		"desc"		:	"Headphone Jack",	
+		"price"		:	"99.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"2 3G",
+		"desc"		:	"Headphone Jack",	
+		"price"		:	"129.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"2",
+		"desc"		:	"Power button",
+		"price"		:	"109.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"3",
+		"desc"		:	"Digitizer",	
+		"price"		:	"149.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"3",
+		"desc"		:	"LCD",
+		"price"		:	"149.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"3",
+		"desc"		:	"LCD+Digitizer",	
+		"price"		:	"219.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"3",
+		"desc"		:	"Back Cover",	
+		"price"		:	"159.00",	
+		"duration"	:	"4"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"3",
+		"desc"		:	"Battery",
+		"price"		:	"109.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"3",
+		"desc"		:	"Charging Port",	
+		"price"		:	"99.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"3",
+		"desc"		:	"Microphone",	
+		"price"		:	"99.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"3",
+		"desc"		:	"Heaphone Jack",	
+		"price"		:	"99.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"3",
+		"desc"		:	"Front Camera",	
+		"price"		:	"99.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"3",
+		"desc"		:	"Power button",	
+		"price"		:	"99.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"4",
+		"desc"		:	"Digitizer",	
+		"price"		:	"139.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"4",
+		"desc"		:	"LCD",
+		"price"		:	"159.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"4",
+		"desc"		:	"LCD+Digitizer",	
+		"price"		:	"239.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"4",
+		"desc"		:	"Back Cover",	
+		"price"		:	"159.00",	
+		"duration"	:	"4"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"4",
+		"desc"		:	"Home Button",	
+		"price"		:	"99.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"4",
+		"desc"		:	"Microphone",	
+		"price"		:	"99.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"4",
+		"desc"		:	"Power Button",	
+		"price"		:	"109.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"4",
+		"desc"		:	"Charging Port",	
+		"price"		:	"99.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"4",
+		"desc"		:	"Front Camera",	
+		"price"		:	"99.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"MINI",
+		"desc"		:	"digitizer",	
+		"price"		:	"179.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"2",
+		"desc"		:	"Digitizer colour converison",	
+		"price"		:	"149.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"3",
+		"desc"		:	"digitizer colour converison",
+		"price"		:	"159.00",
+		"price"		:	"3"
+	},
+	{
+		"brand"		:	"Apple",
+		"serie"		:	"iPad",
+		"model"		:	"4",
+		"desc"		:	"digitizer colour converison",	
+		"price"		:	"169.00",
+		"price"		:	"3"
+
+	},
+	{
+		"brand"		:	"Samsung", 
+		"serie"		:	"Galaxy Tab",
+		"model"		: 	"2 10.1'",
+		"desc"		:	"Digitizer",	
+		"price"		:	"149.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Samsung", 
+		"serie"		:	"Galaxy Tab",
+		"model"		: 	"2 7.0'",	
+		"desc"		:	"digitizer",	
+		"price"		:	"139.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Samsung", 
+		"serie"		:	"Galaxy Note",
+		"model"		: 	"10.1'",	
+		"desc"		:	"digitizer",
+		"price"		:	"149.00",
+		"duration"	:	"2"
+	},
+	{
+		"brand"		:	"Samsung", 
+		"serie"		:	"Galaxy Note",
+		"model"		: 	"10.1'",	
+		"desc"		:	"LCD",	
+		"price"		:	"200.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Samsung", 
+		"serie"		:	"Galaxy Note",
+		"model"		: 	"10.1'",	
+		"desc"		:	"Sim card reader",	
+		"price"		:	"89.00",
+		"duration"	:	"2"
+	},
+	{
+		"brand"		:	"Microsoft", 
+		"serie"		:	"Surface",
+		"model"		:	"RT",
+		"desc"		:	"LCD+Digitizer",
+		"price"		:	"219.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Acer", 
+		"serie"		:	"Iconia",
+		"model"		:	"Tab A500",
+		"desc"		:	"LCD+Digitizer",	
+		"price"		:	"169.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Acer", 
+		"serie"		:	"Iconia",
+		"model"		:	"Tab A700",
+		"desc"		:	"LCD",
+		"price"		:	"199.00",
+		"duration"	:	"3"
+	},
+	{
+		"brand"		:	"Acer", 
+		"serie"		:	"Iconia",
+		"model"		:	"Tab A700",
+		"desc"		:	"Digitizer",
+		"price"		:	"139.00",
+		"duration"	:	"2"
+	},
+	{
+		"brand"		:	"Acer", 
+		"serie"		:	"Iconia",
+		"model"		:	"Tab W500",
+		"desc"		:	"LCD+Digitizer",
+		"price"		:	"179.00",
+		"duration"	:	"3"
+	}
+]

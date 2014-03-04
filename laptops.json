@@ -1,0 +1,122 @@
+[
+	{
+		"device"	:	"PC",
+		"desc"		:	"Full diagnosis", 	
+		"details"	:	"Comprehensive Diagnosis of the exact technical fault and the cause, charged as a flat rate regardless of the complications",
+		"price"		:	"49.00",
+		"duration"	:	"1"
+	},
+	{
+
+		"device"	:	"PC",
+		"desc"		:	"Spring Clean",
+		"details"	:	"Physical and software clean out and optimisation, charged as a flat rate",
+		"price"		:	"59.00",
+		"duration"	:	".5"
+	},
+	{
+		"device"	:	"PC",
+		"desc"		:	"Data Transfer",
+		"details"	:	"Data Transfer either imaged or moved into a single folder on the desktop (excludes programmes) charged as a flat rate",
+		"price"		:	"69.00",
+		"duration"	:	"N/A"
+	},
+	{
+		"device"	:	"PC",
+		"desc"		:	"Comprehensive Data transfer",
+		"details"	:	"Data Transfer with the transfer of all contacts, media, documents and files (excludes programmes) charged as a flat rate.",
+		"price"		:	"119.00",
+		"duration"	:	"N/A"
+	},
+	{
+		"device"	:	"PC",
+		"desc"		:	"Data Recovery",
+		"details"	:	"Recovery from faulty or failing drives",
+		"price"		:	"89.00",
+		"duration"	:	"N/A"
+	},
+	{
+		"device"	:	"PC",
+		"desc"		:	"Clean Windows/MAC Operating System Install",
+		"details"	:	"Format of hard drive, install of the operating system, install of drivers and update to latest version, charged as a flat rate",
+		"price"		:	"119.00",
+		"duration"	:	"3"
+	},
+	{
+		"device"	:	"PC",
+		"desc"		:	"Full Setup",
+		"details"	:	"Complete setup and configuration of a new computer, drivers, runtimes, install of relevant software applications, removal of free trials",
+		"price"		:	"39.00",
+		"duration"	:	".5"
+	},
+	{
+		"device"	:	"PC",
+		"desc"		:	"Virus Removal",
+		"details"	:	"Thorough removal of all viruses, charged as a flat rate",
+		"price"		:	"119.00",
+		"duration"	:	"N/A"
+	},
+	{
+		"device"	:	"PC",
+		"desc"		:	"Hardware Install",
+		"details"	:	"Install of computer hardware component, charged per item",
+		"price"		:	"29.00",
+		"duration"	:	".5"
+	},
+	{
+		"device"	:	"PC",
+		"desc"		:	"Software Install",
+		"details"	:	"Install of software per item",
+		"price"		:	"19.00",
+		"duration"	:	".5"
+	},
+	{
+		"device"	:	"PC",
+		"desc"		:	"Onsite Service",
+		"details"	:	"Onsite service charged as an hourly rate, charged in one hour blocks, travel time included in charge",
+		"price"		:	"109.00",
+		"duration"	:	""
+	},
+	{
+		"device"	:	"PC",
+		"desc"		:	"Remote Support",
+		"details"	:	"Remote service charged as an hourly rate, charged in thirty minute blocks",
+		"price"		:	"79 Per",
+		"duration"	:	""
+	},
+	{
+		"device"	:	"PC",
+		"desc"		:	"Laptop Keyboard",
+		"details"	:	"Faulty keys, brocken",
+		"price"		:	"From $90.00",
+		"duration"	:	"3"
+	},
+	{
+		"device"	:	"Laptop",
+		"desc"		:	"Laptop LCD Replacement ",
+		"details"	:	"Replacment of brocken LCD and screens in laptops",
+		"price"		:	"From $149",
+		"duration"	:	"3"
+	},
+	{
+		"device"	:	"Laptop",
+		"desc"		:	"Laptop DC Jack Repair",
+		"details"	:	"Repairs on DC imputs on laptops for power and charging",
+		"price"		:	"From $89",
+		"duration"	:	"3"
+	},
+	{
+		"device"	:	"PC",
+		"desc"		:	"Computer Hard Drive Replacment",
+		"details"	:	"New Hard Drive installed with operating system installed and setup",
+		"price"		:	"From $179", 
+		"duration"	:	"3"
+	},
+	{
+		"device"	:	"PC",
+		"desc"		:	"Solid State Drive upgrade with Reload",
+		"details"	:	"Install 120GB Solid State drive with OS reload (Drives greater than 120Gb Avaliable)",
+		"price"		:	"From $249",
+		"duration"	:	"3"
+	}
+]
